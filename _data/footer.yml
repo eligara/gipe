@@ -9,6 +9,8 @@ contact:
     mail: 
   - name: AISF
     mail: esecutivo@ai-sf.it
+  - name: IAPS
+    mail:
 
 
 connect:
@@ -16,6 +18,8 @@ connect:
     url: https://www.facebook.com/jungedpg
   - name: AISF FB
     url: http://www.facebook.com/ass.it.stud.fis
+  - name: IAPS FB
+    url: https://www.facebook.com/iapsfb
 
 creator:
   - name: Vittorio Erba
