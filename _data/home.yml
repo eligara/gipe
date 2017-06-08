@@ -7,27 +7,19 @@ when: "From the 1st to the 5th of November 2017"
 where: "In Hamburg"
 
 slideshow:
-  - img: img/LNGS_home.jpg
+  - img: img/nexperia.jpg
     alt: Nexperia
     title: Nexperia
     text: Nexperia's Front End Manufactory Facility
-  - img: img/GSSI_home.jpg
+  - img: img/desy.jpg
     alt: DESY
     title: DESY
     text: DESY's Photon Science department
-  - img: img/LNF_home.jpg
-    alt: MPSD
-    title: MPSD
-    text: Max Planck Institute for the Structure and Dynamics of Matter
-  - img: img/LNF_home.jpg
-    alt: CFEL
-    title: CFEL
-    text: Centre for Free-Electron Laser Science
-  - img: img/LNF_home.jpg
-    alt: ILP
-    title: ILP
-    text: Institute of Laserphysics
--   img: img/LNF_home.jpg
+  - img: img/cfel.jpg
+    alt: MPSD & CFEL
+    title: MPSD & CFEL
+    text: Max Planck Institute for the Structure and Dynamics of Matter and the Centre for Free-Electron Laser Science
+  - img: img/ilp.jpg
     alt: ILP
     title: ILP
     text: Institute of Laserphysics
