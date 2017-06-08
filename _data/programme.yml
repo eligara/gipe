@@ -11,7 +11,7 @@ schedule:
     short_descr: Arrival and welcome lecture
     activity:
       - hour: "13:00 - 15:30"
-        descr: "Check-in and arrival at the hostel"
+        descr: "Check-in and arrival at the Hotel"
       - hour: "16:00 - 17:00"
         descr: "Welcome Reception"
       - hour: "17:30 - 18:30"
