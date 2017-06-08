@@ -1,12 +1,4 @@
-﻿intro: "" <!--"Nexperia is a dedicated global leader in Discretes, Logic and MOSFETs devices. -->
-<!-- <br> -->
-<!-- DESY is one of the world’s leading accelerator centres. Researchers use the large-scale facilities at DESY to explore the microcosm in all its variety – from the interactions of tiny elementary particles and the behaviour of new types of nanomaterials to biomolecular processes that are essential to life. -->
-<!-- <br> -->
-<!-- The Max Planck Society is Germany's most successful research organization. Participants will be able to visit the Max-Planck- Insitute for the structure and dynamics of matter and the Center for Free-Electron Laser Science -->
-<!-- <br> -->
-<!-- The Institute of Laser-Physics (ILP) is part of the physics department of the University of Hamburg. Its aim is to advance the science of coherent light and coherent matter at all scales, from technological applications to basic research. -->
-<!-- <br> -->
-<!-- During our visits, we will be offered a large number of talks. In particular, we expect to have overviews of all the major experiments of the facilities we will visit. The experience can be overwhelming! We will provide further details of our speakers as they become available." -->
+﻿intro: ""
 
 accomodation:
   - img: img/facilities/hotel.jpg
