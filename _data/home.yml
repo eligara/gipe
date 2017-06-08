@@ -7,7 +7,7 @@ when: "From Wednesday the 1st to Sunday the 5th of November 2017."
 where: "For the first year of the exchange, the jDPG will host the event in Hamburg, Germany."
 
 slideshow:
-  - img: img/nexperia.jpg
+  - img: img/nexperia.JPG
     alt: Nexperia
     title: Nexperia
     text: Nexperia's Front End Manufactory Facility
