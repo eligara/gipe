@@ -1,10 +1,10 @@
 banner: img/banner.png
 
-who: "40 students, half from the Italian Association of Physics Students (AISF), half from the junge Deutschen Physikalischen Gesellschaft (jDPG)"
+who: "40 students, half from the Italian Association of Physics Students (AISF), half from the junge Deutschen Physikalische Gesellschaft (jDPG)"
 
 when: "From the 1st to the 5th of November 2017"
 
-where: "In Hamburg"
+where: "The first year of the GIPE will be held by the jDPG in Hamburg, Germany."
 
 slideshow:
   - img: img/nexperia.JPG
@@ -24,4 +24,4 @@ slideshow:
     title: ILP
     text: Institute of Laserphysics
 
-paragraph: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalischen Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017."
+paragraph: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017."
