@@ -9,38 +9,33 @@ The Institute of Laser-Physics (ILP) is part of the physics department of the Un
 During our visits, we will be offered a large number of talks. In particular, we expect to have overviews of all the major experiments of the facilities we will visit. The experience can be overwhelming! We will provide further details of our speakers as they become available."
 
 accomodation:
-  - title: MEININGER Hotel Hamburg City Center
+  - img: img/facilities/hotel.jpg
+    title: MEININGER Hotel Hamburg City Center
     descr: "The MEININGER Hotel Hamburg City Center is located directly by Altona railway station. It is the ideal starting place if you want to explore the tourist attractions of the Hanseatic city. The 116  well-equipped rooms all have a flat-screen TV and a bathroom. The hotel bar, free Wi-Fi, guest kitchen and gaming area means there is no time for boredom."
     site: https://www.meininger-hotels.com/de/hotels/hamburg/
     map: 
 
 
 science:
-  - img: img/facilities/1.jpg
+  - img: img/facilities/nexperia.JPG
     title: NEXPERIA
     descr: "Nexperia is a dedicated global leader in Discretes, Logic and MOSFETs devices. They became independent at the beginning of 2017. Focused on efficiency, Nexperia produces consistently reliable semiconductor components at high volume: 85 billion annually. Their extensive portfolio meets the stringent standards set by the Automotive industry. And industry-leading small packages, produced in their own manufacturing facilities, combine power and thermal efficiency with best-in-class quality levels. Built on over half a century of expertise, Nexperia has 11,000 employees across Asia, Europe and the U.S. supporting customers globally."
     site: https://www.nexperia.com/
     map:
 
-  - img: img/facilities/1.jpg
+  - img: img/facilities/desy.jpg
     title: DESY
     descr: "DESY is one of the world’s leading accelerator centres. Researchers use the large-scale facilities at DESY to explore the microcosm in all its variety – from the interactions of tiny elementary particles and the behaviour of new types of nanomaterials to biomolecular processes that are essential to life. The accelerators and detectors that DESY develops and builds are unique research tools. The facilities generate the world’s most intense X-ray light, accelerate particles to record energies and open completely new windows onto the universe.  That makes DESY not only a magnet for more than 3000 guest researchers from over 40 countries every year, but also a coveted partner for national and international cooperations. Committed young researchers find an exciting interdisciplinary setting at DESY. The research centre offers specialized training for a large number of professions. DESY cooperates with industry and business to promote new technologies that will benefit society and encourage innovations"
     site: http://www.desy.de/index_eng.html
     map:
 
-  - img: img/facilities/2.jpg
-    title:  MPSD
-    descr: "The Max Planck Institute for the Structure and Dynamics of Matter currently hosts three independent Max Planck Research Groups focused on Structure and Dynamics of Cold and Controlled Molecules, Quantum Optics with X-Rays and Dynamics of Nanoelectronic Systems. Participants will be given talks from key researchers of the Institute as well as a Lab Tour."
+  - img: img/facilities/cfel.jpg
+    title: MPSD and CFEL
+    descr: "The Max Planck Institute for the Structure and Dynamics of Matter currently hosts three independent Max Planck Research Groups focused on Structure and Dynamics of Cold and Controlled Molecules, Quantum Optics with X-Rays and Dynamics of Nanoelectronic Systems. Participants will be given talks from key researchers of the Institute as well as a Lab Tour. DESY, the Max-Planck-Gesellschaft, and the University of Hamburg established together a Centre for Free-Electron Laser Science on the Hamburg University site. CFEL focuses on developing and exploiting the scientific applications of the new radiation sources with outstanding properties."
     site: http://www.mpsd.mpg.de/en
     map:
 
-  - img: img/facilities/3.jpg
-    title: CFEL
-    descr: "DESY, the Max-Planck-Gesellschaft, and the University of Hamburg established together a Centre for Free-Electron Laser Science on the Hamburg University site. CFEL focuses on developing and exploiting the scientific applications of the new radiation sources with outstanding properties."
-    site: http://photon-science.desy.de/research/desy_cfel/index_eng.html
-    map:
-
-  - img: img/facilities/1.jpg
+  - img: img/facilities/ilp.jpg
     title: Institute of Laserphysics
     descr: "The Institute of Laser-Physics (ILP) is part of the physics department of the University of Hamburg. Its aim is to advance the science of coherent light and coherent matter at all scales, from technological applications to basic research. Working both experimentally and theoretically, its seven research groups join forces to explore novel physics at the intersection of several rapidly evolving disciplines: these comprise laser development and spectroscopy, quantum optics, photonics, and ultracold quantum gases."
     site: http://photon.physnet.uni-hamburg.de/en/ilp/
