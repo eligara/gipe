@@ -1,6 +1,6 @@
-﻿info: "Registration will be opened between July 1st and July 23rd, 2017.
+﻿info: "Registration will be opened on this link [we will add the link here] between July 1st and July 23rd, 2017.
 </p><p>
- Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.)" 
+ Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) 
 
 posters?: true
 
@@ -17,4 +17,6 @@ deadlines:
       url: "#!"
     - text: "Preference will be given to students presenting abstracts. Please notice that applicants can be from any discipline of Physics."
       url: "#!"
+    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
+      url: "https://www.ai-sf.it/dbaisf/registration/"
     
