@@ -17,12 +17,6 @@ accomodation:
 
 
 science:
-  - img: img/facilities/uni.jpg
-    title: Hamburg University
-    descr: "Universität Hamburg is the largest institution for research and education in the north of Germany. As one of the country's largest universities, it offers a diverse course spectrum and excellent research opportunities. The University has established several interdisciplinary key research areas and fosters an extensive network of academic cooperations with leading institutions on a regional, national, and international scale."
-    site: http://photon.physnet.uni-hamburg.de/en/ilp/
-    map:
-
   - img: img/facilities/nexperia.JPG
     title: NEXPERIA
     descr: "Nexperia is a dedicated global leader in Discretes, Logic and MOSFETs devices. They became independent at the beginning of 2017. Focused on efficiency, Nexperia produces consistently reliable semiconductor components at high volume: 85 billion annually. Their extensive portfolio meets the stringent standards set by the Automotive industry. And industry-leading small packages, produced in their own manufacturing facilities, combine power and thermal efficiency with best-in-class quality levels. Built on over half a century of expertise, Nexperia has 11,000 employees across Asia, Europe and the U.S. supporting customers globally."
@@ -31,7 +25,7 @@ science:
 
   - img: img/facilities/desy.jpg
     title: DESY
-    descr: "DESY is one of the world’s leading accelerator centres. Researchers use the large-scale facilities at DESY to explore the microcosm in all its variety – from the interactions of tiny elementary particles and the behaviour of new types of nanomaterials to biomolecular processes that are essential to life. The accelerators and detectors that DESY develops and builds are unique research tools. The facilities generate the world’s most intense X-ray light, accelerate particles to record energies and open completely new windows onto the universe.  That makes DESY not only a magnet for more than 3000 guest researchers from over 40 countries every year, but also a coveted partner for national and international cooperations. Committed young researchers find an exciting interdisciplinary setting at DESY. The research centre offers specialized training for a large number of professions. DESY cooperates with industry and business to promote new technologies that will benefit society and encourage innovations"
+    descr: "DESY is one of the world’s leading accelerator centres. Researchers use the large-scale facilities at DESY to explore the microcosm in all its variety – from the interactions of tiny elementary particles and the behaviour of new types of nanomaterials to biomolecular processes that are essential to life. The accelerators and detectors that DESY develops and builds are unique research tools. The facilities generate the world’s most intense X-ray light, accelerate particles to record energies and open completely new windows onto the universe."
     site: http://www.desy.de/index_eng.html
     map:
 
@@ -46,5 +40,4 @@ science:
     descr: "The Institute of Laser-Physics (ILP) is part of the physics department of the University of Hamburg. Its aim is to advance the science of coherent light and coherent matter at all scales, from technological applications to basic research. Working both experimentally and theoretically, its seven research groups join forces to explore novel physics at the intersection of several rapidly evolving disciplines: these comprise laser development and spectroscopy, quantum optics, photonics, and ultracold quantum gases."
     site: http://photon.physnet.uni-hamburg.de/en/ilp/
     map:
-
  
