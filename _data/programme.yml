@@ -99,18 +99,5 @@ few_info:
       url: "#!"
     - text: "We expect to select 40 students, of whom approximately half will be Italian, half German."
       url: "#!"
-    - text: "Participation fees are fixed at €34.50 for each applicant. Such fee will cover the cost of accommodation in Hamburg, breakfasts at the hostel, almost all lunches, tickets to get around Hamburg for the whole 5 days. 
-Please notice that participation fees <b>do not cover</b> the following:"
-      url: "#!"
-      subpoints:
-        - text: "Journeys to/from Hamburg at arrival and departure. These will need to be arranged independently;"
-          url: "#!"
-        - text: "Insurance;"
-          url: "#!"
-        - text: "Meals other than those officially offered in the Programme. In particular, dinners."
-          url: "#!"
-    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
-      url: "https://www.ai-sf.it/dbaisf/registration/"
-      button: Module
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
       url: "#!"
