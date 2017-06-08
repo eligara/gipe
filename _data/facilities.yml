@@ -45,8 +45,4 @@ science:
     descr: "The Institute of Laser-Physics (ILP) is part of the physics department of the University of Hamburg. Its aim is to advance the science of coherent light and coherent matter at all scales, from technological applications to basic research. Working both experimentally and theoretically, its seven research groups join forces to explore novel physics at the intersection of several rapidly evolving disciplines: these comprise laser development and spectroscopy, quantum optics, photonics, and ultracold quantum gases."
     site: http://photon.physnet.uni-hamburg.de/en/ilp/
     map:
-  - img: img/facilities/1.jpg
-    title: Institute of Laserphysics
-    descr: "The Institute of Laser-Physics (ILP) is part of the physics department of the University of Hamburg. Its aim is to advance the science of coherent light and coherent matter at all scales, from technological applications to basic research. Working both experimentally and theoretically, its seven research groups join forces to explore novel physics at the intersection of several rapidly evolving disciplines: these comprise laser development and spectroscopy, quantum optics, photonics, and ultracold quantum gases."
-    site: http://photon.physnet.uni-hamburg.de/en/ilp/
-    map:
+ 
