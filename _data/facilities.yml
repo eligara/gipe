@@ -12,8 +12,8 @@ science:
   - img: img/facilities/uni.jpg
     title: Hamburg University
     descr: "Universität Hamburg is the largest institution for research and education in the north of Germany. As one of the country's largest universities, it offers a diverse course spectrum and excellent research opportunities. The University has established several interdisciplinary key research areas and fosters an extensive network of academic cooperations with leading institutions on a regional, national, and international scale."
-    site: http://photon.physnet.uni-hamburg.de/en/ilp/
-    map:
+    site: http://www.physnet.uni-hamburg.de/fachbereich-physik_e.html
+    map: https://www.uni-hamburg.de/onTEAM/campus/index.html?loc=i12340335
   - img: img/facilities/nexperia.JPG
     title: NEXPERIA
     descr: "Nexperia is a dedicated global leader in Discretes, Logic and MOSFETs devices. They became independent at the beginning of 2017. Focused on efficiency, Nexperia produces consistently reliable semiconductor components at high volume: 85 billion annually. Their extensive portfolio meets the stringent standards set by the Automotive industry. In Nexperia small packages, produced in their own manufacturing facilities, combine power and thermal efficiency with best-in-class quality levels. Built on over half a century of expertise, Nexperia has 11,000 employees across Asia, Europe and the U.S. supporting customers globally."
