@@ -17,7 +17,7 @@ deadlines:
       url: "#!"
     - text: "Preference will be given to students presenting abstracts. Please notice that applicants can be from any discipline of Physics."
       url: "#!"
-    - text: "Participation fees are fixed at €34.50 for each applicant. Such fee will cover the cost of accommodation in Hamburg, breakfasts at the hostel, almost all lunches, tickets to get around Hamburg for the whole 5 days. Please notice that participation fees <b>do not cover</b> the following:"
+    - text: "There is no participation fee. Accomodation and most of the lunches are offered. A Travel Package will be available for €34.50. Such fee will cover tickets to get around Hamburg for the whole 5 days. Please notice that the organization does not cover <b>do not cover</b> the following:"
       url: "#!"
       subpoints:
         - text: "Journeys to/from Hamburg at arrival and departure. These will need to be arranged independently;"
