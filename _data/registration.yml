@@ -1,4 +1,4 @@
-﻿info: "Registration will be opened between July 1st and July 23rd, 2017.
+﻿info: "Registration will be opened from July 1st (12:00 am CET) and July 20th (12:00pm CET) 2017.
 </p><p>
  Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.)"
 
@@ -17,6 +17,8 @@ deadlines:
       url: "#!"
     - text: "Preference will be given to students presenting abstracts. Please notice that applicants can be from any discipline of Physics."
       url: "#!"
+    - text: "The event is organized and offered by the German Physical Society (DPG)."
+      url: "#!"
     - text: "There is no participation fee. Accomodation and most of the lunches are offered. A Travel Package will be available for €34.50. Such fee will cover tickets to get around Hamburg for the whole 5 days. Please notice that the organization does not cover <b>do not cover</b> the following:"
       url: "#!"
       subpoints:
@@ -28,4 +30,7 @@ deadlines:
           url: "#!"
     - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
       url: "https://www.ai-sf.it/dbaisf/registration/"
+      button: Module
+    - text: "If you are a German but not in the DPG yet, you can become a member here:"
+      url: "https://www.dpg-physik.de/mitgliedschaft/mitglied.html"
       button: Module
