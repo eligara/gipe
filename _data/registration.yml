@@ -1,4 +1,4 @@
-﻿info: "Registration will be opened from July 1st (12:00 am CET) and July 20th (12:00pm CET) 2017.
+﻿info: "Registration will be opened from July 1st (12:00 am CET) to July 20th (12:00pm CET) 2017.
 </p><p>
  Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.)"
 
@@ -29,8 +29,8 @@ deadlines:
         - text: "Meals other than those officially offered in the Programme. In particular, dinners."
           url: "#!"
     - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
-      url: "https://www.ai-sf.it/dbaisf/registration/"
+      url: "http://www.ai-sf.it/dbaisf/registration/"
       button: Module
     - text: "If you are a German but not in the DPG yet, you can become a member here:"
-      url: "https://www.dpg-physik.de/mitgliedschaft/mitglied.html"
+      url: "http://www.dpg-physik.de/mitgliedschaft/mitglied.html"
       button: Module
