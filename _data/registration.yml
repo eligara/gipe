@@ -1,4 +1,4 @@
-﻿info: "Registration will be opened from July 1st (12:00 am CET) to July 20th (12:00pm CET) 2017.
+﻿info: "Registration will be opened from July 1st (12:00am CET) to July 20th (12:00pm CET) 2017.
 </p><p>
  Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.)"
 
@@ -11,13 +11,12 @@ posters: "A set of student talks  will be held during the event and students of 
 deadlines:
   info: ""
   specs:
-    - text: "A first round of registration for the event will be open at this page between July 1st (13:00, CET) and July 23rd (13:00, CET). [at what time exactly it will be opened?]"
-      url: "#!"
-    - text: "Following the registration period, we expect to email all applicants within 10 days. The selection process will end before the beginning of August. Payments will then be required (by bank transfer or PayPal) within 10 days of receiving an acceptance email from the organising committee."
+    
+    - text: "Following the registration period, we expect to email all applicants within 10 days. The selection process will end before the beginning of August. Payments will then be required within 10 days of receiving an acceptance email from the organising committee."
       url: "#!"
     - text: "Preference will be given to students presenting abstracts. Please notice that applicants can be from any discipline of Physics."
       url: "#!"
-    - text: "The event is organized and offered by the German Physical Society (DPG)."
+    - text: "The event is organized and sponsored by the German Physical Society (DPG)."
       url: "#!"
     - text: "There is no participation fee. Accomodation and most of the lunches are offered. A Travel Package will be available for €34.50. Such fee will cover tickets to get around Hamburg for the whole 5 days. Please notice that the organization does not cover <b>do not cover</b> the following:"
       url: "#!"
