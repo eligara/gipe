@@ -1,8 +1,6 @@
-intro: "Prova"
+intro: ""
 
 science:
-  - img: img/facilities/uni.jpg
-    title: Hamburg University
-    descr: "Universitat Hamburg is the largest institution for research and education in the north of Germany. As one of the country's largest universities, it offers a diverse course spectrum and excellent research opportunities. The University has established several interdisciplinary key research areas and fosters an extensive network of academic cooperations with leading institutions on a regional, national, and international scale."
-    site: http://www.physnet.uni-hamburg.de/fachbereich-physik_e.html
-    map: https://www.uni-hamburg.de/onTEAM/campus/index.html?loc=i12340335
+  - img: img/speakers/boris.jpg
+    title: Boris Albers
+    descr: "Dr. Boris Albers works with leading organizations in the industrial/natural resources sector, including transportation, energy, utilities, waste management, manufacturing, and services. He also works for private equity companies and is involved in leadership and succession projects."
