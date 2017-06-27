@@ -48,7 +48,7 @@ schedule:
       - hour: "9:00 - 11:00"
         descr: "Workshop and Discussion with leading manager from the consulting industry"
       - hour: "11:00 - 13:00"
-        descr: "Workshop and Discussion with leading manager from a patent attourny"
+        descr: "Workshop and Discussion with leading manager from a patent attorney"
       - hour: "13:00 - 14:00"
         descr: "Lunch Break and drive to DESY"
       - hour: "15:00 - 17:00"
