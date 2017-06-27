@@ -2,8 +2,7 @@
 </p><p>
 During the Programme, 40 students will be able to visit some cutting-edge facilities including the Nexperia's Front End Manufacturing, DESY, the labs of the Max-Planck-Instutute for the structure and dynamics of matter, the Center for Free-Electron Laser Science and the Institute of Laserphysics.
 Moreover, the participants will be given talks by local professors, researchers and managers.
-</p><p>
-The complete event programme can be downloaded here (we will add the programme)."
+</p><p>"
 
 last_update: 05/06/17
 
@@ -29,7 +28,7 @@ schedule:
       - hour: "9:00 - 12:00"
         descr: "Nexperia's Front End Manufacturing facility"
       - hour: "12:00 - 13:00"
-        descr: "Lunch at NExperia"
+        descr: "Lunch at Nexperia"
       - hour: "14:00 - 15:00"
         descr: "Guest lecture on astrophysics"
       - hour: "15:00 - 17:00"
