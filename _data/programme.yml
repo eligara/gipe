@@ -1,9 +1,9 @@
-info: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017.
+﻿info: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017.
 </p><p>
 During the Programme, 40 students will be able to visit some cutting-edge facilities including the Nexperia's Front End Manufacturing, DESY, the labs of the Max-Planck-Instutute for the structure and dynamics of matter, the Center for Free-Electron Laser Science and the Institute of Laserphysics.
 Moreover, the participants will be given talks by local professors, researchers and managers.
 </p><p>
-"
+The complete event programme can be downloaded here (we will add the programme)."
 
 last_update: 05/06/17
 
@@ -29,7 +29,7 @@ schedule:
       - hour: "9:00 - 12:00"
         descr: "Nexperia's Front End Manufacturing facility"
       - hour: "12:00 - 13:00"
-        descr: "Lunch at Nexperia"
+        descr: "Lunch at NExperia"
       - hour: "14:00 - 15:00"
         descr: "Guest lecture on astrophysics"
       - hour: "15:00 - 17:00"
@@ -49,7 +49,7 @@ schedule:
       - hour: "9:00 - 11:00"
         descr: "Workshop and Discussion with leading manager from the consulting industry"
       - hour: "11:00 - 13:00"
-        descr: "Workshop and Discussion with leading manager from a patent attorney"
+        descr: "Workshop and Discussion with leading manager from a patent attourny"
       - hour: "13:00 - 14:00"
         descr: "Lunch Break and drive to DESY"
       - hour: "15:00 - 17:00"

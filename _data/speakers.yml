@@ -1,4 +1,4 @@
-intro: ""
+ï»¿intro: ""
 
 science:
   
@@ -30,6 +30,12 @@ Prior to joining Russell Reynolds Associates, Boris spent four years as a consul
     shortdes: "Russell Reynolds Associate"
 
   - img: img/speakers/jorg.JPG
+<<<<<<< HEAD
     title: Dr. Jörg Faupel
     descr: "Jörg is a Patent, Trademark and Design Attorney specialised in patent, utility model, trademark, registered design, employee invention and intellectual property law. He has experience with industrial property rights since 2007."
     shortdes: "Seemann & Partner"
+=======
+    title: Dr. JÃ¶rg Faupel
+    descr: "JÃ¶rg is a Patent, Trademark and Design Attorney specialised in patent, utility model, trademark, registered design, employee invention and intellectual property law. He has experience with industrial property rights since 2007."
+    shortdes: "Seemann & Partner"
+>>>>>>> parent of 37d2eef... Correzioni varie
